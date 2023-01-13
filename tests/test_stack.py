@@ -47,7 +47,7 @@ def test_emptiness():
 
 
 # Пограничные случаи
-import pytest
+#import pytest
 
 def test_pop_with_empty_stack():
     # извлечь элемент, когда в стеке нет ни одного элемента
